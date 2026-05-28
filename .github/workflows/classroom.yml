@@ -1,4 +1,4 @@
-name: Autograding Tests
+name: Autograding Testsa
 'on':
 - push
 - repository_dispatch
